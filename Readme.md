@@ -1,3 +1,3 @@
 # My Blog
 
-this is my blog
+Elly has taught me how to push.
